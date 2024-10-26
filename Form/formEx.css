@@ -1,0 +1,47 @@
+*{
+	margin:10px;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'poppins';
+	
+	
+}
+
+.firstname{
+	background-color:yellow;
+}
+.Last-Name{
+	background-color:yellow;
+}
+.Middle-Name{
+	background-color:yellow;
+}
+
+.container{
+	
+	background-color:#87CEEB;
+	color:blue;
+	font-size:20px;
+	font-style: italic;
+	font-weight: bold;
+	padding:10px 20px;
+}
+
+.rowcontainer
+{
+	display:flex;
+}
+
+input[type="text"]
+{
+	
+	
+	color:blue;
+	
+}
+
+body
+{
+	background:linear-gradiant(135deg,#71b7e6,#9b59b6);
+	padding-color: blue;
+}
