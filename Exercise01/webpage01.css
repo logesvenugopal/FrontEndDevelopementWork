@@ -1,0 +1,111 @@
+.Heading
+{
+	background-image:url("forest.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:300px;
+	color:red;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	word-spacing:10px;
+	line-height:8;
+	font-size:55px;
+}
+.kingofanimals
+{
+	display:flex;
+	margin:20px;
+	
+	
+	padding:20px;
+	padding-left:50px;
+	padding-left:50px;
+	padding-right:50px;
+	
+	
+	
+}
+.Lion
+{
+	
+	
+	
+	
+}
+
+
+.Tiger
+{
+	
+	margin-left:50px;
+}
+.Elephant
+{
+	
+	margin-left:50px;
+}
+
+.Birds-Heading
+{
+	background-image:url("bb.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:300px;
+	color:red;
+	text-align:center;
+	text-transform:uppercase;
+	letter-spacing:3px;
+	word-spacing:10px;
+	line-height:8;
+	font-size:55px;
+	margin-top:10px;
+}
+.birdsworld
+{
+	display:flex;
+	margin:20px;
+	
+	padding:20px;
+	padding-left:50px;
+	padding-left:50px;
+	padding-right:50px;
+}
+
+.parrot
+{
+	width:100%;
+	
+	
+	
+}
+
+
+.egle
+{
+	width:100%;
+	
+	margin-left:50px;
+}
+.crow
+{
+	
+	
+	margin-left:50px;
+}
+
+.feedbackform
+{
+	background-color:grey;
+	padding:50px;
+	width:500px;
+	margin-left:500px;
+	box-sizing: border-box;
+}
+button[type="submit"]
+{
+	background-color:yellow;
+	width:100px;
+	height:50px;
+	
+}
