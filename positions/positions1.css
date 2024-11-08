@@ -1,0 +1,186 @@
+.fristContainer01
+{
+	border:2px solid green;
+	width:75%;
+	padding:0px;
+	margin:0px;
+	
+}
+
+.ReadOnly
+{
+	text-align:left;
+	padding:10px;
+	margin:100px;
+	color:grey;
+	border-bottom-style:solid red 5px;
+	
+}
+.thingsICanDo
+{
+	text-align:left;
+	padding:10px;
+	margin:100px;
+	color:grey;
+	
+	
+}
+
+.imageContainer01
+{
+	width:100%;
+	height:200px;
+	
+}
+ul
+{
+	column-count:2;
+	
+}
+li
+{
+	padding:10px;
+	margin:0px;
+	width:0px;
+}
+
+.accomplishments1
+{
+	display:flex;
+	margin:50px;
+	
+}
+.accomplishments4
+{
+	padding:20px;
+	
+	border-radius:2px;
+}
+.accomplishments5
+{
+	margin:50px;
+}
+.accomplishments2
+{
+	display:flex;
+	padding:20px;
+	margin:50px;
+	
+}
+.accomplishments7
+{
+	margin:50px;
+}
+.accomplishments9
+{
+	margin:50px;
+}
+.accomplishments8
+{
+	padding:20px;
+}
+.accomplishments3
+{
+	display:flex;
+	
+	margin:50px;
+}
+
+.contactme
+{
+	padding-left:200px;
+	margin:50px;
+}
+
+.one
+{
+	display:flex;
+}
+
+
+
+
+
+.mainContainer
+{
+	background-color:yellowgreen;
+	width:25%;
+	height:100vh;
+	border:2px solid yellowgreen;
+	position:fixed;
+	right:0px;
+	
+	
+	
+}
+
+
+
+.ImageContainer
+{
+	height:180px;
+	width:180px;
+	
+	border-radius:150px;
+	margin-top:80px;
+	margin-left:100px;
+	
+}
+.nameConatiner
+{
+	margin-top:50px;	
+	
+}
+#HeadingName
+{
+	text-align:center;
+	color:white;
+}
+
+#Objective
+{
+	text-align:center;
+	color:white;
+}
+.Optioncontainer [type=button]
+{
+	
+	width:100%;
+	height:55px;
+	margin-top:10px;
+	margin-right:20px;
+	
+}
+input:hover
+{
+	color:blue;
+}
+input[type=text]
+{
+	width:250px;
+	height:20px;
+}
+.formspace
+{
+	margin:10px;
+	text-align:center;
+}
+#sendbutton
+{
+	width:100px;
+	height:50px;
+	background-color:green;
+	color:white;
+}
+#resetbutton
+{
+	width:100px;
+	height:50px;
+	background-color:grey;
+	color:white;
+}
+#message
+{
+	height:150px;
+	text-align:center;
+}
