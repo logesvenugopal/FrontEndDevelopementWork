@@ -1,0 +1,102 @@
+.MainPage
+{
+	Background-color:Darkorange;
+	height:150px;
+	width:100%;
+	position:sticky;
+	top:0px;
+	
+	
+	
+	
+}
+.home
+{
+	position:relative;
+	
+	top:120px;
+	bottom:0;
+}
+
+
+
+.OurPeopleMoto
+{
+	background-color:grey;
+	text-align:center;
+	padding:10px;
+	color:white;
+	
+}
+.TeamMatesDeatils
+{
+	background-color:lightgray;
+	display:grid;
+	grid-template-columns:250px 250px 250px;
+	padding:80px;
+	gap:50px;
+	justify-content:center;
+	align-items:center;
+}
+
+.customerFeedbackSection
+{
+	display:grid;
+	grid-template-columns:50% 50%;
+	background-color:violet;
+	padding:40px;
+}
+
+.bottomdivision
+{
+	margin:0px;
+	background-color:burlywood;
+	text-align:center;
+	
+}
+
+.ContactUsPage
+{
+	background-color:white;
+	width:250px;
+	padding:50px;
+}
+input
+{
+	width:250px;
+	height:20px;
+}
+#feedback
+{
+	margin:10px;
+	height:150px;
+	width:540px;
+}
+.person1
+{
+	
+	text-align:center;
+	padding:20px;
+	
+	
+}
+.formspace
+{
+	margin:10px;
+	text-align:center;
+}
+
+.imagesTag
+{
+	height:150px;
+	width:150px;
+	border-radius:50%;
+}
+#submitbutton
+{
+	margin:10px;
+	width:100px;
+	height:50px;
+	background-color:grey;
+	color:white;
+}
